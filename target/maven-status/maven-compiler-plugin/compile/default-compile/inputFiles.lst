@@ -1,0 +1,7 @@
+/home/mtimotijevic/NetBeansProjects/WebAppFullyAnnotated/src/main/java/app/controller/MainController.java
+/home/mtimotijevic/NetBeansProjects/WebAppFullyAnnotated/src/main/java/app/configuration/SpringMvcInitializer.java
+/home/mtimotijevic/NetBeansProjects/WebAppFullyAnnotated/src/main/java/app/configuration/HibernateConfiguration.java
+/home/mtimotijevic/NetBeansProjects/WebAppFullyAnnotated/src/main/java/app/dao/PersonDao.java
+/home/mtimotijevic/NetBeansProjects/WebAppFullyAnnotated/src/main/java/app/configuration/SpringConfiguration.java
+/home/mtimotijevic/NetBeansProjects/WebAppFullyAnnotated/src/main/java/app/controller/RestController.java
+/home/mtimotijevic/NetBeansProjects/WebAppFullyAnnotated/src/main/java/app/model/Person.java
