@@ -19,7 +19,7 @@ public class RestController {
     @RequestMapping(value = "/test")
     public void test(){
         personDao.savePerson(new Person("Pera Peric", 21));
-    }
+    }//test comment for git
     
     
 }
